@@ -1,4 +1,3 @@
-package src.main;
 public class BankAccount {
     private double balance;
 
